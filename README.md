@@ -1,0 +1,2 @@
+# cocoapod-MIMIKEdgeClientThumbnail
+cocoapod-MIMIKEdgeClientThumbnail
