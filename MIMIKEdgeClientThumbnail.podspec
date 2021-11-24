@@ -9,11 +9,11 @@
 Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeClientThumbnail"
-  s.version      = "13.0.1"
+  s.version      = "12.5.1"
   s.summary      = "mimik thumbnail service library"
 
   s.description  = <<-DESC
- MIMIKEdgeClientThumbnail cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik thumbnail services.
+   MIMIKEdgeClientThumbnail cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik thumbnail services.
   DESC
 
   s.homepage     = "https://github.com/mimikgit/cocoapod-MIMIKEdgeClientThumbnail"
@@ -24,8 +24,8 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "MIMIKEdgeClientThumbnail.framework"
 
-  s.dependency 'MIMIKEdgeClient', '~> 13.0.1'
-  s.dependency 'MIMIKEdgeClientProfile', '~> 13.0.1'
+  s.dependency 'MIMIKEdgeClient', '~> 12.5.1'
+  s.dependency 'MIMIKEdgeClientProfile', '~> 12.5.1'
   s.dependency 'Alamofire', '~> 5.4.4'
   s.dependency 'SwiftyJSON', '~> 5.0.1'
 
