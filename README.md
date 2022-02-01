@@ -4,11 +4,11 @@
 
  * `Thumbnail`
 
- using the following APIs:
+ using these API functions:
 
  * `userAvatarImageFor`
 
- Please see the in-code documenation in Xcode for more details about each API.
+ Please see the in-code documentation in Xcode for more details.
 
 ## Requirements
 ```
